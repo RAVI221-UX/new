@@ -1,3 +1,4 @@
 # new
-This is my first Repository 
-Author - Ravi Kumar
+This is my first Repository.
+<br>
+Author - Ravi Kumar.
